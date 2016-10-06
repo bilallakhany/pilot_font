@@ -1,0 +1,25 @@
+Step1: Install Node using nvm follow step from here https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04 or follow these steps:
+1.Use these commands:
+sudo apt-get update 
+sudo apt-get install build-essential libssl-dev
+curl -sL https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh -o install_nvm.sh
+bash install_nvm.sh
+
+2.Then close and relaunch terminal and use this command
+nvm ls-remote
+
+3.Then a list of version will show up use that to download the lates version
+nvm install X.X.X
+
+4.Check for node version with node -v
+
+Step2: import the package.json and Gruntfile.js file from git
+
+step3: then use npm install to install all packages
+
+step4: add icons to icon folder make sure format is svg
+
+step5: open directory in terminal and use command grunt
+
+
+

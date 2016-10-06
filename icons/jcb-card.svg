@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="34px" height="23px" viewBox="0 0 34 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>CB9DCE66-A120-49E2-81B9-139275F1583E</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Stylesheet" transform="translate(-274.000000, -830.000000)">
+            <g id="credit-cards" transform="translate(65.000000, 830.000000)">
+                <g id="jcb-card" transform="translate(209.028834, 0.000000)">
+                    <rect id="jcb-bg" fill="#E8ECEF" x="0" y="0" width="33.6584345" height="23" rx="3"></rect>
+                    <g id="Group-9" transform="translate(7.009034, 4.600000)">
+                        <path d="M13.90125,14.2347662 L17.3103145,14.2347662 C18.6474633,14.2347662 19.7318778,13.1469246 19.7318778,11.8041301 L19.7318778,0 L16.3228133,0 C14.9856644,0 13.90125,1.08784157 13.90125,2.43063608 L13.90125,14.2347662" id="Fill-18" fill="#16C061"></path>
+                        <path d="M6.95062499,14.2347662 L10.3590561,14.2347662 C11.6968383,14.2347662 12.7806194,13.1469246 12.7806194,11.8041301 L12.7806194,0 L9.37218827,0 C8.03440599,0 6.95062499,1.08784157 6.95062499,2.43063608 L6.95062499,14.2347662" id="Fill-19" fill="#E42F3D"></path>
+                        <path d="M0,14.2347662 L3.4090645,14.2347662 C4.74621336,14.2347662 5.83062779,13.1469246 5.83062779,11.8041301 L5.83062779,0 L2.42156328,0 C1.08441442,0 0,1.08784157 0,2.43063608 L0,14.2347662" id="Fill-20" fill="#3482C8"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
