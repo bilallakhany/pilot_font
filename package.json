@@ -1,0 +1,23 @@
+{
+  "name": "pilot_font",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilallakhany/pilot_font.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bilallakhany/pilot_font/issues"
+  },
+  "homepage": "https://github.com/bilallakhany/pilot_font#readme",
+  "devDependencies": {
+    "grunt": "^0.4.0",
+    "grunt-webfont": "^1.6.0"
+  }
+}
